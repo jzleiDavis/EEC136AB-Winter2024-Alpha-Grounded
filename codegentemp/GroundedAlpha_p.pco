@@ -1,0 +1,28 @@
+dont_use_location SMIF -1 -1 0
+dont_use_location p4usbcell -1 -1 0
+dont_use_location USB -1 -1 0
+dont_use_location usbcell -1 -1 0
+set_io "\UART:rx(0)\" iocell 5 0
+set_location "\ADC:SAR\" SARADC -1 -1 0
+set_location "\UART:SCB_IRQ\" interrupt -1 -1 46
+set_location "\ADC:IRQ\" interrupt -1 -1 138
+set_location "\SensorBus:SCB_IRQ\" interrupt -1 -1 47
+set_location "\SensorBus:SCB\" SCB -1 -1 6
+set_io "Button(0)" iocell 0 4
+set_location "ClockGenBlock" CLK_GEN -1 -1 0
+# Warning: unknown type "SARMUX"
+#set_location "\ADC:SARMUX\" SARMUX -1 -1 -1 -1
+set_location "\UART:SCB\" SCB -1 -1 5
+set_io "CY_CPUSS_SWJ_SWCLK_TCLK(0)" iocell 6 7
+set_io "SDA(0)" iocell 6 5
+set_io "CY_CPUSS_SWJ_SWDIO_TMS(0)" iocell 6 6
+set_io "\UART:tx(0)\" iocell 5 1
+set_io "WS(0)" iocell 9 5
+set_io "MW(0)" iocell 9 4
+set_io "VMudWatt(0)" iocell 10 6
+set_io "VWheatStone(0)" iocell 10 5
+set_io "VWS(0)" iocell 10 4
+set_location "Pressed_IRQ" interrupt -1 -1 122
+set_location "CPUSS" CPUSS -1 -1 0
+set_io "SCL(0)" iocell 6 4
+set_location "ClockBlock" Clock -1 -1 0

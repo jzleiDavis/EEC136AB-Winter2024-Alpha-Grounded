@@ -1,0 +1,15 @@
+C:\Users\inuk3\Documents\PSoC Creator\SeniorDesign\Blinky.cydsn\Blinky.cyprj|87d030dd-6f29-4a5e-8f7a-aeabf478d2b2
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|d26a5c58-a463-4004-9a53-89a67cc8e5f1
+C:\Users\inuk3\Documents\PSoC Creator\4.4\Downloads ( 4.4).cylib\Downloads ( 4.4).cyprj|abf5d2d5-25a7-4b87-bae5-e01e4c97def4
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|51978deb-78b1-45a7-8867-77980ae71dbb
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|0684b79c-fb1a-407b-8d74-47d1c6257c0e
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|319c8439-90c1-4754-aae2-239b00be0ddb
+C:\Users\inuk3\Documents\PSoC Creator\SeniorDesign\Printf.cydsn\Printf.cyprj|090c7ee4-5dfa-4512-ab5a-9641801fbc05
+C:\Users\inuk3\Documents\PSoC Creator\SeniorDesign\Debug.cydsn\Debug.cyprj|6c7da512-7745-4ef8-8750-e67f74359c17
+C:\Users\inuk3\Documents\PSoC Creator\SeniorDesign\Sensor.cydsn\Sensor.cyprj|7baf58da-e2e4-4693-aa50-752dd234b261
+C:\Users\inuk3\Documents\PSoC Creator\SeniorDesign\L2P2.cydsn\L2P2.cyprj|4671387b-c725-4a68-8552-63d56210d205
+C:\Users\inuk3\Documents\PSoC Creator\SeniorDesign\Lab3 Plant Sensor.cydsn\Lab3 Plant Sensor.cyprj|1409efc3-7928-4ff8-a269-05791902716a
+C:\Users\inuk3\Documents\PSoC Creator\SeniorDesign\Lab4Alpha.cydsn\Lab4Alpha.cyprj|c05c0dff-bdad-48e7-a392-0c39bd65eddb
+C:\Users\inuk3\Documents\PSoC Creator\SeniorDesign\seniorProjectAlpha.cydsn\seniorProjectAlpha.cyprj|1b00f154-7b0d-421e-9b8c-0c1b8f492374
+C:\Users\inuk3\Documents\PSoC Creator\SeniorDesign\GroundedAlpha.cydsn\GroundedAlpha.cyprj|b16525e0-e19c-4a45-af67-69f266e11dd6
+C:\Users\inuk3\Documents\PSoC Creator\SeniorDesign\GroundedWithFakeData.cydsn\GroundedWithFakeData.cyprj|0e18aa31-f200-45c1-89b3-2020d962d5c6
